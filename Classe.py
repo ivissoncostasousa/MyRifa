@@ -6,7 +6,7 @@ class Assinantes:
         self.numero = numero
     def setNome(self, nome):
         self.nome = nome
-    def set.Rg(self, rg):
+    def setRg(self, rg):
         self.rg = rg
     def setTelefone(self, telefone):
         self.telefone = telefone
